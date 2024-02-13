@@ -1,6 +1,6 @@
 <template>
   <div class="container text-center">
-    <h1>Agregar números</h1>
+    <h1>Agregar números a un array</h1>
     <div class="btn-group">
       <button @click="increment" class="btn btn-success">Aumentar</button>
       <button @click="decrement" class="btn btn-secondary">Disminuir</button>
